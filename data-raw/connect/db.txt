@@ -1,0 +1,2 @@
+"url"	"id"	"id2"	"db"	"coordTb"	"exprTb"	"geneTb"	"default"
+"10.27.241.82"	"SC19033_scData"	"URMzNJOi"	"fgl_data"	"SC19033_PCA"	"SC19033_gene_expr_tb"	"SC19033_geneID_tb"	"Spock2"

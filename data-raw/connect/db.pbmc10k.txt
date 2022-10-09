@@ -1,0 +1,2 @@
+"url"	"id"	"id2"	"db"	"coordTb"	"exprTb"	"geneTb"	"default"
+"10.27.241.82"	"pbl359B_scData"	"f62KekwE"	"pbl_data"	"pbl359B_PCA"	"pbl359B_gene_expr_tb"	"pbl359B_geneID_tb"	"MYL5"
